@@ -1,0 +1,11 @@
+body{
+    background: grey;
+}
+blockquote{
+    border: 1px solid white;
+text-align: center;
+}
+.sample{
+    width: 600px;
+    margin: auto;
+}
